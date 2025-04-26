@@ -10,5 +10,4 @@ setup(
     author_email="sonamproject2025@gmail.com",
     url="https://github.com/sonamproject-2025/DDoS-Attack/blob/main/slowloris.py",
     keywords=["dos", "http", "slowloris"],
-    license="MIT",
 )
