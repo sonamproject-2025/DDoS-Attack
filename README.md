@@ -29,7 +29,10 @@ This project focuses on simulating different types of Distributed Denial-of-Serv
    
 3. Run simulations using provided scripts in the `scripts/` folder.  
    Example:  
-   `python3 simulate_attack.py`
+   `./goldeneye.py OR python3 goldeneye.py`
+   > Service tor start
+   > sudo etherape
+   > proxychains ./goldeneye.py http://google.com
 
 ## ⚠️ Disclaimer:
 This project is intended for educational and academic purposes **only**. Do not use these tools on unauthorized systems.
